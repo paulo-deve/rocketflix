@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+![image](https://user-images.githubusercontent.com/82914908/190462082-8551f1d5-47d4-472b-bfad-a8d73d3795ba.png)
 
 > Projeto proposto pela plataforma de desafios da rocketseat, utilizando html, css e javascript.
 
