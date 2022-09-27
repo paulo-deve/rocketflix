@@ -9,7 +9,7 @@
 
 ## 🚀 Instalando <Rocketflix>
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+Para instalar o projeto, siga estas etapas:
 
 Linux, macOS e Windows:
 ```
